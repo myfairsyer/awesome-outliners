@@ -34,6 +34,5 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 - [Dynalist](https://dynalist.io) - Similar to Workflowy, with more features.
 - [Moo.do](https://www.moo.do) - Outliner and task manager with unique features.
 - [Checkvist](https://checkvist.com) - Online outliner and task manager.
-- [Fargo](http://fargo.io) - Online outliner, stores your outlines in Dropbox. #stagnant.
-- [The Outliner of Giants](https://www.theoutlinerofgiants.com) -  A feature rich Outline Processor, similar to Fargo.
+- [Little Outliner 2](http://littleoutliner.com) - Online outliner, based on the discontinued fargo outliner
 
