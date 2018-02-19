@@ -5,7 +5,7 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 ## Table of Content
 
 - [Desktop](#desktop)
-- [Cloud based](#cloud-based)
+- [Web based](#web-based)
 
 ## Desktop
 
@@ -28,7 +28,7 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 - [The Vim Outliner](http://www.vim.org/scripts/script.php?script_id=3515) - Outlining mode for VIM.
 - [Notecase Pro](http://www.notecasepro.com) - Hierarchical personal information manager.
 
-## Cloud based
+## Web based
 
 - [Workflowy](https://workflowy.com) - Simple list management tool.
 - [Dynalist](https://dynalist.io) - Similar to Workflowy, with more features.
